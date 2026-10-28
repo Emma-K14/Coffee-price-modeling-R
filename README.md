@@ -89,10 +89,10 @@ The Black-Scholes call price is recomputed for spot prices from $1.00 to $1.40 p
 - The call price is convex in the spot price (positive gamma) and increases with volatility (positive vega): from about \$0.035 at 15% volatility to \$0.119 at 40% volatility.
 
 #### Spot Price Sensitivity
-![Call Option Price vs Spot Price](figures/spot_sensitivity.png)
+![Call Option Price vs Spot Price](Figures/spot_sensitivity.png)
 
 #### Volatility Sensitivity
-![Call Option Price vs Volatility](figures/volatility_sensitivity.png)
+![Call Option Price vs Volatility](Figures/volatility_sensitivity.png)
 
 ### 5.2 Commodity Market risk
 - Supply and demand: Production shortages or stronger demand may push the call price up through the spot price.
